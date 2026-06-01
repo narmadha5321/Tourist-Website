@@ -611,7 +611,7 @@
     }
     .circleback{
         width:100%;
-        margin-left:-450px;
+        margin-left:-400px;
         height:300px;
         margin-top: 750px;
     }
@@ -879,6 +879,7 @@
 }
 .eightoverall{
     width:100%;
+    padiing:20px;
 }
 .covers{
     width:100%;
